@@ -1,5 +1,6 @@
 <h1 >Hey all 👋,This is Mhokesh!!</h1>
-<h3 >I'm an AI Specialist passionate about solving real-world problems with innovative solutions. I enjoy exploring new technologies, contributing to open-source projects, and collaborating with others to create impactful systems.</h3>
+<h2>Let’s connect and collaborate !!</h2>
+<h2 >I'm an AI Specialist passionate about solving real-world problems with innovative solutions. I enjoy exploring new technologies, contributing to open-source projects, and collaborating with others to create impactful systems.</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
